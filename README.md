@@ -2,7 +2,7 @@
 
 Um lugar para publicar nossos exercícios e acompanhar nossa evolução no java ao longo do tempo.
 _______________________________________________________________________
-## 🎯 Meu Objetivo
+## 🎯 Objetivo
 - Praticar Lógica
 - Praticar POO
 - Registrar nossa evolução
